@@ -1,0 +1,1 @@
+# 1. Pemenggalan kata pada kata dasar dilakukan sebagai berikut.

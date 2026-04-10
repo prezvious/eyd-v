@@ -1,0 +1,28 @@
+import type { Metadata } from "next";
+
+import { DocPageView } from "@/components/doc-page";
+import { buildDocMetadata, requireDocPage } from "@/lib/doc-helpers";
+import { getCategoryRoutes } from "@/lib/site-content";
+
+type PageProps = {
+  params: Promise<{
+    topik: string;
+  }>;
+};
+
+export function generateStaticParams() {
+  return getCategoryRoutes("/kata").map((route) => ({
+    topik: route.split("/").filter(Boolean)[1]
+  }));
+}
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { topik } = await params;
+  return buildDocMetadata(`/kata/${topik}`);
+}
+
+export default async function Page({ params }: PageProps) {
+  const { topik } = await params;
+  const page = requireDocPage(`/kata/${topik}`);
+  return <DocPageView page={page} />;
+}

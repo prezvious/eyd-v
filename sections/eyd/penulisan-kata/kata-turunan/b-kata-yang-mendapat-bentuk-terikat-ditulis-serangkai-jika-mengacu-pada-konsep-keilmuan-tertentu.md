@@ -1,0 +1,52 @@
+# b. Kata yang mendapat bentuk terikat ditulis serangkai jika mengacu pada konsep keilmuan tertentu.
+
+**Misalnya:**
+
+- *adi*busana
+- *aero*dinamika
+- *antar*golongan
+- *anti*kekerasan
+- *awa*hama
+- *bi*karbonat
+- *bio*kimia
+- *deka*meter
+- *de*moralisasi
+- *dwi*warna
+- *eka*bahasa
+- *ekstra*kurikuler
+- *infra*struktur
+- *in*konvensional
+- *kontra*indikasi
+- *ko*sponsor
+- *loka*karya
+- *manca*negara
+- *makro*ekonomi
+- *mikro*biologi
+- *multi*lateral
+- *nara*pidana
+- *nir*gagasan
+- *non*kolaborasi
+- *pari*purna
+- *pasca*kebenaran
+- *pasca*sarjana
+- *pra*anggapan
+- *pra*jabatan
+- *pramu*saji
+- *pramu*wisata
+- *pro*aktif
+- *purna*wirawan
+- *sapta*krida
+- *semi*profesional
+- *sub*bagian
+- *super*cepat
+- *swa*daya
+- *tan*suara
+- *tele*wicara
+- *trans*migrasi
+- *tri*tunggal
+- *tuna*karya
+- *ultra*modern
+- *wira*swasta
+- ayah*anda*
+- ego*sentris*
+- okta*hedron*

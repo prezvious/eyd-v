@@ -1,0 +1,1 @@
+# 8. Penulisan bilangan dengan huruf seperti dalam peraturan perundang-undangan, akta, dan kuitansi dilakukan sebagai berikut.

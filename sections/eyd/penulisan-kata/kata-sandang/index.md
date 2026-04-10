@@ -1,0 +1,1 @@
+# I. Kata Sandang si dan sang

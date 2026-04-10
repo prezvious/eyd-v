@@ -1,0 +1,1 @@
+# H. Kata Ganti ku-, kau-, -ku, -mu, dan -nya

@@ -1,0 +1,1 @@
+# 2. Pemenggalan kata pada kata berimbuhan dilakukan sebagai berikut.
